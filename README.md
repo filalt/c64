@@ -18,3 +18,4 @@ E' stata aggiunta la funzionalità di lettura di un numero in formato hex dal ba
 con il simbolo di dollaro.
 Sono supportate da un minimo di una cifra ad un massimo di quattro cifre che descrivono il numero 
 in formato hex.
+Per utilizzare questa funzionalità dopo aver installato il programma mediante il suo sys ricordatevi di impartire un comando new dal basic.
